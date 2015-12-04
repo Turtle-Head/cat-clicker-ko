@@ -1,3 +1,19 @@
 #cat-img{
   width:50%;
 }
+.flex{
+  flex-flow:row;
+  border-style:none;
+  width: 100%;
+  display: flex;
+}
+.buttons{
+  border: 0;
+  background-color: gray;
+  color: white;
+  align-content: center;
+  width:16%;
+  padding-left: 3%;
+  border-radius: 10px;
+  margin: 3%;
+}
